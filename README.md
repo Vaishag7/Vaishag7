@@ -1,4 +1,6 @@
 ### Hi there 👋
+This is Vaishnavi Agnihotri, a third year undergraduate in the department of Chemical Engineering at IIT Bombay. I am always enthusiastic to talk about tech, Biotech, Finance and all cool and interesting stuff. 
+For me, Code and Charachter matters the most 
 
 <!--
 **Vaishag7/Vaishag7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
